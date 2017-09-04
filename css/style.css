@@ -333,7 +333,8 @@
   top: 0;
 }
 .fixs .fixs-btm {
-  margin-top: 70px;
+  position: absolute;
+  bottom: 6px;
 }
 .clear {
   clear: both;
